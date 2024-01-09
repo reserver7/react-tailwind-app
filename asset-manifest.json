@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-app/static/css/main.2aeb3448.css",
+    "main.js": "/react-tailwind-app/static/js/main.b3997b05.js",
+    "static/js/787.c6b564a5.chunk.js": "/react-tailwind-app/static/js/787.c6b564a5.chunk.js",
+    "static/media/support.jpeg": "/react-tailwind-app/static/media/support.f9048e6107105e955586.jpeg",
+    "static/media/google.svg": "/react-tailwind-app/static/media/google.b596752253d8523d78d4a2691564e4b4.svg",
+    "static/media/apple.svg": "/react-tailwind-app/static/media/apple.e3713dc89ad84e690ab38eae55922d3e.svg",
+    "index.html": "/react-tailwind-app/index.html",
+    "main.2aeb3448.css.map": "/react-tailwind-app/static/css/main.2aeb3448.css.map",
+    "main.b3997b05.js.map": "/react-tailwind-app/static/js/main.b3997b05.js.map",
+    "787.c6b564a5.chunk.js.map": "/react-tailwind-app/static/js/787.c6b564a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aeb3448.css",
+    "static/js/main.b3997b05.js"
+  ]
+}
